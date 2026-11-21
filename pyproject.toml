@@ -1,0 +1,11 @@
+[project]
+name = "web-dev-class"
+version = "0.1.0"
+description = "Carojon Academy - Python, AI and the Web (8 weeks, ages 12-15)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyterlab>=4.0",
+    "ipykernel>=6.29",
+    "gradio>=5.0",
+]
